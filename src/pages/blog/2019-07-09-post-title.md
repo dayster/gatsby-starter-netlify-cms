@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Post Title
-date: 2019-07-09T02:54:33.673Z
+date: 2017-01-04T15:04:00.000Z
 description: >-
   Lorem Ipsum is simply dummy text of the printing and typesetting industry.
   Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
